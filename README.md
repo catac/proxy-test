@@ -1,3 +1,3 @@
 proxy-test
 ==========
-test
+test with proxy
